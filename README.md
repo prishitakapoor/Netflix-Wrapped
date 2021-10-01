@@ -17,4 +17,4 @@ This app will analyse the following:
 4. from all the downloaded files, ViewingActivity.csv is the file you'll need!
 
 # Demo
-<img src="https://github.com/prishitakapoor/Netflix-Wrapped/blob/main/assets/Screen%20Recording%202021-06-19%20at%205.35.49%20PM.gif" width ="450" height="280"/>
+<img src="https://github.com/prishitakapoor/Netflix-Wrapped/blob/master/assets/Screen%20Recording%202021-06-19%20at%205.35.49%20PM.gif"/>
